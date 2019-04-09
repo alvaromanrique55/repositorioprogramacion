@@ -11,6 +11,7 @@ public class github {
 	        System.out.println("Lectura de los elementos del array: ");
 	        for (i = 0; i < numeros.length; i++) {
 	            System.out.print("numeros[" + i + "]= ");
+			System.out.println("");
 	            
 			
 	        }
